@@ -1,0 +1,7 @@
+for use angular:
+1. install Node
+2. command : npm i -g angular/cli
+where, -g = means we install angular for globally in our system.
+   version check: ng version
+3. Create angular Application
+command : ng create app_name

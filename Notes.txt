@@ -1,0 +1,34 @@
+Angular : 
+-> Javascript framework for web development.
+-> Single Page Application(No Refresh on clicks)
+-> Developed by google
+
+Angular Intro...: 
+-> We need to install Node for angular.
+-> MVC(Model View Controller) architecture.
+-> Angular Js and Angular are different.
+-> Angular release on 14 sept 2016.
+-> Current version is 19.
+
+Why Angular?
+-> Fast loading
+-> Fast development
+-> Angular provides alots of features
+   1) Validation Library.
+   2) Routing
+   3) Component bases structure
+-> Large community
+
+What we will learn
+1) Setup
+2) structure
+3) Basics
+4) MVC
+5) Component
+6) Routing
+7) Tasks
+8) Forms
+9) Events
+10) API
+11) Interview
+12) Projects
